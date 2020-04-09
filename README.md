@@ -1,6 +1,6 @@
 # textualheatmap
 
-**Create interactive textual heatmaps for Jupiter notebooks.**
+**Create interactive textual heatmaps for Jupyter notebooks.**
 
 I originally published this visualization method in my distill paper
 https://distill.pub/2019/memorization-in-rnns/. In this context, it is used
@@ -91,7 +91,7 @@ heatmap.highlight(159)
 
 ![Shows saliency with predicted words at metadata](gifs/show_meta.gif)
 
-### Example of sequential-charecter model without metadata
+### Example of sequential-character model without metadata
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreasMadsen/python-textualheatmap/blob/master/notebooks/general_example.ipynb)
 
